@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+#I'm currently a student at Cooper High school learning code.
+
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
